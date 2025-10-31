@@ -8,9 +8,9 @@ Bewerberaufgabe
 
 ## Ausführung
 - Projekt öffnen
-- Warten, bis Maven alle Abhängigkeiten geladen hat
+- Warten, bis Maven alle Abhängigkeiten geladen hat (evtl. Rechtsklick auf pom.xml und Add as Maven Project
 - Datei SuperDuperMarktApplication.java öffnen
-- Auf den grünen Run-Pfeil neben der main()-Methode klicken
+- Auf den grünen Run-Pfeil neben der main()-Methode klicken (evtl. muss eine JDK mit Version 17 gesetzt werden)
 - In der Konsole erscheinen nun die Simulationsergebnisse:
 ```
 CSV-Datei erfolgreich geladen: 5 Produkte.
