@@ -1,6 +1,7 @@
 package de.jan.czok.superdupermarkt.respository;
 
 import de.jan.czok.superdupermarkt.model.Cheese;
+import de.jan.czok.superdupermarkt.model.Fruit;
 import de.jan.czok.superdupermarkt.model.Product;
 import de.jan.czok.superdupermarkt.model.Wine;
 import org.apache.commons.csv.CSVFormat;
